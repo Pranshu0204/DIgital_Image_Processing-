@@ -17,5 +17,5 @@ In the frequency domain, the image is represented as a set of spatial frequencie
 and the filter can be applied to adjust the strength or presence of certain frequency components. 
 This is achieved by applying mathematical operations to the frequency coefficients obtained through the Fourier Transform of the image.
 Frequency domain filters can be used for a variety of tasks, such as noise reduction, edge enhancement, and image restoration.
-In the given frequency,spatial and histogram.mlx code import the given test image file.
-The .mlx file is a matlab supported extension which is to be opened in either Matlab installed on your machine or matlab online.
+* In the given frequency,spatial and histogram.mlx code import the given test image file. *
+* The .mlx file is a matlab supported extension which is to be opened in either Matlab installed on your machine or matlab online. *

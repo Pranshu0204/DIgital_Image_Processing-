@@ -1,4 +1,4 @@
-# DIgital_Image_Processing-
+# DIgital Image Processing:
 
 ## This repository contains the matlab codes with the following functionalities:
 

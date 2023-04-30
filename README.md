@@ -3,7 +3,7 @@
 ## This repository contains the matlab codes with the following functionalities:
 
 1. Reading an input image.
-2. Grey Level transformation of the input image.
+2. Grey Level transformation of the input image:
 Gray level transformation, also known as image enhancement, is a fundamental technique in Digital Image Processing (DIP) 
 that is used to modify the contrast and brightness of an image by adjusting its pixel values.
 3. Histogram equalization of image:
